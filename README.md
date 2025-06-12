@@ -1,9 +1,8 @@
 # SuperStore_Sales
 Bu proje Python Veri Bilimi dersi için yapılmıştır. Yasin Deniz Cüre 132230035
 ----------------------------------------------------------------------------
-Veri Seti: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
-[Satis_Verisi_Analizi_Proje_Raporu.docx](https://github.com/user-attachments/files/20716476/Satis_Verisi_Analizi_Proje_Raporu.docx)
+Veri Seti: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 ----------------------------------------------------------------------------
 ![zamanagoresatis](https://github.com/user-attachments/assets/67896327-bdbb-4c65-b086-7ef1da6b46a8)
