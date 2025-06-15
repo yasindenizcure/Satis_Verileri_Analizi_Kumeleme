@@ -10,3 +10,4 @@ Veri Seti: SuperStore_Sales https://www.kaggle.com/datasets/rohitsahoo/sales-for
 ![kategorisatisbazlikumeleme](https://github.com/user-attachments/assets/03a904bd-0448-4fad-b932-8775f97a4e35)
 ![elbow](https://github.com/user-attachments/assets/48cb0703-f09f-4515-914d-792ec605a76e)
 ![ayliksatistahmini](https://github.com/user-attachments/assets/5b91928b-7e51-4beb-9b79-0c448d3210af)
+![ayliksatis](https://github.com/user-attachments/assets/8892d00a-8ba4-4580-b06f-bf7b56e6bfcd)
